@@ -2,7 +2,7 @@
 
 **Physicist & Computer Engineer · AI/ML Engineering · Defense & Scientific Applications**
 
-Physics and Computer Engineering double major graduate. I build and study ML systems applied to real engineering problems — from materials property prediction to defense-relevant signal and data analysis. I care about models that are grounded in physical reasoning, not just benchmarks.
+Physics and Computer Engineering double major graduate. I build and study ML systems applied to real engineering problems from materials property prediction to defense-relevant signal and data analysis. I care about models that are grounded in physical reasoning, not just benchmarks.
 
 ---
 
