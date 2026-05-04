@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-**Physics & Computer Engineering Graduate · AI/ML Engineering
+**Physics & Computer Engineering Graduate · AI/ML Engineering**
